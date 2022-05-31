@@ -15,7 +15,6 @@ const villageArray =
 
 function Village() {
 
-
 return villageArray.map( (e)=>
   <VillageItem type={e.type} color={e.color} size={e.size}/>
 );  
