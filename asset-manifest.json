@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/village/static/css/main.073c9b0a.css",
+    "main.js": "/village/static/js/main.19c734ec.js",
+    "index.html": "/village/index.html",
+    "main.073c9b0a.css.map": "/village/static/css/main.073c9b0a.css.map",
+    "main.19c734ec.js.map": "/village/static/js/main.19c734ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19c734ec.js"
+  ]
+}
